@@ -2,7 +2,8 @@
     "name": "Unit 5 game",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "pxt-lantern": "github:felixtsu/pxt-lantern#v0.2.0"
     },
     "files": [
         "main.blocks",
